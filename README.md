@@ -24,7 +24,7 @@ o	Print following values in a csv file: Category ID, Name, Path, Promotion ID, P
 
 Follow below things
 
-1. Add path for data outcome into Beanshell sampler code
+1. Add path for data outcome into Beanshell post processor code
 
 Example
 
