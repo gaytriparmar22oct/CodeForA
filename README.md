@@ -34,4 +34,4 @@ File file =new File ("<YourPath>\\SampledataFromBeanShellDataSampler.csv");
 
 3. To Run in Non GUI Mode ,Please follow below Command
 
-Jmeter -n -t <path of Jmx file> -l <Path of the output file>
+Jmeter -n -t "path of Jmx file" -l "Path of the output file"
